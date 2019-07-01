@@ -14,9 +14,7 @@ module.exports = function(app) {
       },
       name: {
         type: String
-      },
-
-      githubId: { type: String }
+      }
     },
     {
       timestamps: true
